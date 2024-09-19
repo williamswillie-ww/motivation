@@ -1,0 +1,31 @@
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+html{
+    background-color: black;
+    
+}
+
+.poster{
+    color: white;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+
+    background: -o-linear-gradient(to right, rgb(30 75 115 / 100%), rgb(255 255 255 / 0%));
+
+}
+
+
+.image{
+    width: 50%;
+    border: 5px solid white;
+ 
+}
